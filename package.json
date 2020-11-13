@@ -9,6 +9,6 @@
     "cypress": "cypress open"
   },
   "dependencies": {
-    "cypress": "^4.9.0"
+    "cypress": "^5.6.0"
   }
 }
